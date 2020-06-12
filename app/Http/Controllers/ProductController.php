@@ -9,4 +9,5 @@ class ProductController extends Controller
     public function index(){
     	$i = 'Hard bass';
     	return $i;
+	}
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,3 +78,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+
+
+Как забрать проет с репозитория?
+1. Сначала надо прописать свой RSA Public key в проекте (на сайте https://github.com/gpnda/lara )
+
+
+
+
+1. Делаем команду git clone https://github.com/gpnda/lara ./
+	в конце добавляем ./ чтобы проект клинировался в текущую папку а не в папку /lara
+>>>>>>> a1735c4e35a43df95b6c13568318f2691e0c1f01

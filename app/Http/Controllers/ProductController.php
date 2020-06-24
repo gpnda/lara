@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class ProductController extends Controller
 {
     public function index(){
-    	$i = 'Hardbass';
+    	$i = 'Hardbass1111111111111';
     	return $i;
 	}
 }

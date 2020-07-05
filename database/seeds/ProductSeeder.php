@@ -17,7 +17,7 @@ class ProductSeeder extends Seeder
         DB::table('products')->insert([
             'name' => Str::random(10),
             'partnum' => 'ART_'.Str::random(10),
-            'partnum' => 'ART_'.Str::random(10),
+            'picfilename' => 'ART_'.Str::random(10),
             'category_id'  => rand(1, 10),
             'brand_id'  => rand(1, 10),
             'price'  => rand(1000, 2500),
